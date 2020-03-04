@@ -1,0 +1,50 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "zhNotice": "12-17号！搬瓦工的账户回来了！晚上更新了一下!官方博客也准备换服务器，太卡了。然后我也申请了一个TG，https://t.me/Superbigbig，还有关于网络上好多人说蓝鲸收费，说付了款给我然后就上不了。我真是冤吖！蓝鲸没有会员入口，没有充值入口，没有打赏入口。我那么收你们费了。你们黑也黑得有点手段好不好！难受！",
+        "enNotice": "Everybody is good! I am the developer of blue whale. Github server has been closed recently. Now it needs to be updated to version 1.15 before it can be used normally. Thank you!",
+        "qa": [
+            {
+                "zhQuestion": "这是中文问题1",
+                "zhAnswer": "这是中文回答1",
+                "enQuestion": "这是英文问题1",
+                "enAnswer": "这是英文回答1"
+            },
+            {
+                "zhQuestion": "这是中文问题2",
+                "zhAnswer": "这是中文回答2",
+                "enQuestion": "这是英文问题2",
+                "enAnswer": "这是英文回答2"
+            }
+        ],
+        "comment": {
+            "zhTitle": "这是标题",
+            "zhContent": "这是内容",
+            "enTitle": "这是英文标题",
+            "enContent": "这是英文内容"
+        },
+        "adList": [
+            {
+                "title": "",
+                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "action": "http://www.baidu.com"
+            },
+            {
+                "title": "",
+                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "action": "market://details?id=com.bluewhale.vpn.shadowsocks"
+            }
+        ],
+        "info": [
+            {
+                "zhTitle": "12-05！更新",
+                "zhContent": "3点多终于更新完，还有一个服务器商还在审核重新验证，6号应该就可以通过，到时候就会多几个普通服务器，现在普通服务器也升级了硬件，普通服务器现在也不普通了，刚刚重新检查了一遍网络。傻逼的我发现阿里套路云的IP一直是错的，导致服务器一直是闲置状态，真想扇自己一巴掌，啪！！！好吧！替你们扇了！忙了几个月的游戏，现在真的要和大家见面了，现在我有个想法，到时候游戏和应用账户数据共通，玩游戏可以开启蓝鲸隐藏服务器，而且可以全部免广告，减少使用操作步骤，实现真正干净的应用软件。还有给我点时间，我要把蓝鲸失去的评分拿回来。还有黑人问号？为什么好几个1星的评论都说蓝鲸开通会员就用不了！我真是纳了个闷！！！蓝鲸不是一直都是免登陆，无会员的吗？蓝鲸我没有充值入口！！！哎！累！现在都4.5的评分还是有人重伤！！敢情我要怎么样才能放过我鸭！！！还有不知道秘籍的可以去看我的博客！密码是bluewhale123 网站地址：\n www.bluewhalevpn.com",
+                "enTitle": "11-06! Emergency update！",
+                "enContent": "The github server has been blocked, making the list of servers unavailable. Most people will probably show that the network is unavailable at this time. Now I have made a new mechanism, double security, but to access the new version, this is an embarrassing problem, can not access the server now can not update, if the Google update, please move to my blog to download the update, thank you. A little tired recently! The blue whale feels cool already! Ha ha ha! But only you don't give up on me. I'll keep updating. Keep it free.."
+            }
+        ]
+    }
+}
