@@ -1,0 +1,78 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "blueWhaleD": "tSztWiyEDif3/nPvNKAZ9Q==",
+        "igh": false,
+        "i": false,
+        "c": true,
+        "v": false,
+        "hs": 5,
+        "hc": 2,
+        "vs": 3,
+        "vc": 8,
+        "ins": 1,
+        "inc": 4,
+        "gls": "oFSDuvRhql1vfTkUf0e8yw==",
+        "cul": "vPyRoUTsZLdKlSf4pklYEWHPdsryFSLdMQG1cPTQjGEL6X5BWU1smiOu7hBBsiUW",
+        "server": [
+            {
+                "level": "Trojan",
+                "levelEn": "Trojan",
+                "rc": 1,
+                "consume": "0",
+                "ct": 1,
+                "kc": "",
+                "m": "",
+                "list": [
+                    {
+                        "host": "40OTqynkVzgaTO5UFR/eINva+FrmwMsV59vZ80PQfyc=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
+                        "zhCity": "d4JtpebU1U5rPx91Yozy4A==",
+                        "enCity": "rBsbKu4nUJKUaAD+eTJYzQ==",
+                        "s": "UcBnF75Ay+DhovxpG8HEpg=="
+                    }
+                ]
+            },
+            {
+                "level": "SS",
+                "levelEn": "SS",
+                "rc": 1,
+                "consume": "0",
+                "ct": 2,
+                "kc": "",
+                "m": "Vb7d3KAw8m/SSKrukJTdlw==",
+                "list": [
+                    {
+                        "host": "37Tt6FJW3ieUm07s/VpUHQ==",
+                        "port": "3bsh5qnX+DB0jQqL5F6Kug==",
+                        "country": "e+SHWnnrHZSdDvWoD6Iv/A==",
+                        "zhCity": "WEeJ2mXFfkwjacmevfWq1w==",
+                        "enCity": "fbXf+6AhCvrxCkWCl/tUSQ==",
+                        "s": "+gYCdKKnXZmsElHtus+2sQ=="
+                    }
+                ]
+            },
+            {
+                "level": "SS+KCP",
+                "levelEn": "SS+KCP",
+                "rc": 1,
+                "consume": "0",
+                "ct": 3,
+                "kc": "l7sfKE51y45pf9vGPoo7KH2GNMWY1UpgPUigSmevwOwsH3vScIqZYzkhs7dSmz0RoZV+AKYGCwTxzwNWk0U7Q3QBfq3S+BnQZStg7qCRepX2ufqOf0B/DbNLo7se+4sqNw62BgBXVxoTLTpBFfiCqg==",
+                "m": "Vb7d3KAw8m/SSKrukJTdlw==",
+                "list": [
+                    {
+                        "host": "37Tt6FJW3ieUm07s/VpUHQ==",
+                        "port": "sRL49cgmIeG0PcaTStkitg==",
+                        "country": "e+SHWnnrHZSdDvWoD6Iv/A==",
+                        "zhCity": "WEeJ2mXFfkwjacmevfWq1w==",
+                        "enCity": "fbXf+6AhCvrxCkWCl/tUSQ==",
+                        "s": "+gYCdKKnXZmsElHtus+2sQ=="
+                    }
+                ]
+            }
+        ]
+    }
+}
