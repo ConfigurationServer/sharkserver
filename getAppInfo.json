@@ -2,48 +2,68 @@
     "status": true,
     "message": "",
     "data": {
-        "zhNotice": "12-17号！搬瓦工的账户回来了！晚上更新了一下!官方博客也准备换服务器，太卡了。然后我也申请了一个TG，https://t.me/Superbigbig，还有关于网络上好多人说蓝鲸收费，说付了款给我然后就上不了。我真是冤吖！蓝鲸没有会员入口，没有充值入口，没有打赏入口。我那么收你们费了。你们黑也黑得有点手段好不好！难受！",
-        "enNotice": "Everybody is good! I am the developer of blue whale. Github server has been closed recently. Now it needs to be updated to version 1.15 before it can be used normally. Thank you!",
+        "zhNotice": "逗鲨的第一款独立游戏正式上线,谷歌商店搜索：Whalerun。即可下载！感谢大家！！",
+        "enNotice": "",
+        "descEn": [
+            "Welcome to use！",
+            "Connect the world, so easy!"
+            
+        ],
+        "desc": [
+            "欢迎使用！",
+            "连接世界，如此简单！"
+            
+        ],
         "qa": [
             {
-                "zhQuestion": "这是中文问题1",
-                "zhAnswer": "这是中文回答1",
-                "enQuestion": "这是英文问题1",
-                "enAnswer": "这是英文回答1"
+                "zhQuestion": "逗鲨是什么？",
+                "zhAnswer": "逗鲨是一款采用全新协议的vpn，高效安全！",
+                "enQuestion": "What is a FunnyShark?",
+                "enAnswer": "FunnyShark is a new protocol using the VPN, efficient and safe!"
             },
             {
-                "zhQuestion": "这是中文问题2",
-                "zhAnswer": "这是中文回答2",
-                "enQuestion": "这是英文问题2",
-                "enAnswer": "这是英文回答2"
+                "zhQuestion": "逗鲨免费吗？",
+                "zhAnswer": "完全免费！",
+                "enQuestion": "Is it free to play with Funnyshark?",
+                "enAnswer": "Totally free!"
             }
         ],
         "comment": {
-            "zhTitle": "这是标题",
-            "zhContent": "这是内容",
-            "enTitle": "这是英文标题",
-            "enContent": "这是英文内容"
+            "zhTitle": "评价我们！",
+            "zhContent": "非常感谢使用逗鲨！逗鲨会不忘初心，把用户体验放第一位。在成长的过程中，需要大家的反馈和支持，如果觉得逗鲨不错，请给我们留言，帮我们改进，免费不易！谢谢大家！",
+            "enTitle": "Give us a rating！",
+            "enContent": "Thank you very much!"
         },
         "adList": [
             {
                 "title": "",
-                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "action": "http://www.baidu.com"
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "action": ""
             },
             {
                 "title": "",
-                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "action": "market://details?id=com.bluewhale.vpn.shadowsocks"
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "action": ""
             }
         ],
         "info": [
             {
-                "zhTitle": "12-05！更新",
-                "zhContent": "3点多终于更新完，还有一个服务器商还在审核重新验证，6号应该就可以通过，到时候就会多几个普通服务器，现在普通服务器也升级了硬件，普通服务器现在也不普通了，刚刚重新检查了一遍网络。傻逼的我发现阿里套路云的IP一直是错的，导致服务器一直是闲置状态，真想扇自己一巴掌，啪！！！好吧！替你们扇了！忙了几个月的游戏，现在真的要和大家见面了，现在我有个想法，到时候游戏和应用账户数据共通，玩游戏可以开启蓝鲸隐藏服务器，而且可以全部免广告，减少使用操作步骤，实现真正干净的应用软件。还有给我点时间，我要把蓝鲸失去的评分拿回来。还有黑人问号？为什么好几个1星的评论都说蓝鲸开通会员就用不了！我真是纳了个闷！！！蓝鲸不是一直都是免登陆，无会员的吗？蓝鲸我没有充值入口！！！哎！累！现在都4.5的评分还是有人重伤！！敢情我要怎么样才能放过我鸭！！！还有不知道秘籍的可以去看我的博客！密码是bluewhale123 网站地址：\n www.bluewhalevpn.com",
-                "enTitle": "11-06! Emergency update！",
-                "enContent": "The github server has been blocked, making the list of servers unavailable. Most people will probably show that the network is unavailable at this time. Now I have made a new mechanism, double security, but to access the new version, this is an embarrassing problem, can not access the server now can not update, if the Google update, please move to my blog to download the update, thank you. A little tired recently! The blue whale feels cool already! Ha ha ha! But only you don't give up on me. I'll keep updating. Keep it free.."
+                "zhTitle": "一段日记！关于游戏！关于它！",
+                "zhContent": "一个不务正业的开发者终于把人生第一款独立游戏开发完成！vpn这行太多尔虞我诈，真心受不起，或者我可以靠游戏的收入来维持服务器的开支，或者我可以靠游戏的收入来给帮助蓝鲸逗鲨成长的朋友提供更好的服务，或者。。。或者。。。！太多的期望。其实总是需要去迈出第一步，蓝鲸我做到了！逗鲨我也做到了！今天whalerun我也做到了，这算是我人生的一次尝试。半年了！半年了！这游戏曾几何时！我都已经放弃了他！只是对于那两位帮助我的朋友！我有点有愧于他！呵呵！当初是我骗他们帮我画的原画！当初是我骗他们帮我搭的框架，然后因为蓝鲸遇到的挫折，我放弃了！是逗鲨让我看到希望！我需要靠其他的方式来提高自己的竞争力！为大家提供更优质的服务！胖鲸快跑游戏完成后！我会继续完善这两条鱼的加速模式，继续优化！把新的加速模式加入进来，不敢说吊打全部免费，只能说做好自己！其他让用户去体验把！不好的我会慢慢改！对于这新游戏！欢迎大家来Whalerun的全新世界体验！游戏里尽速模式前几十名。胖鲸会提供一个独立的服务器作为激励，为您各个客户端提供上网服务！对！这是广告！但是我是真的没办法！我是真的需要你们的帮忙！感谢！期待在whalerun与您相遇！我的游戏ID：胖鲸快跑。谢谢大家！谷歌搜索：《whalerun》，或者《胖鲸快跑》即可下载。面对这2020！蓝鲸准备好了！逗鲨准备好了！您呢？加油吧！2020-03-03!！",
+                "enTitle": "Whalerun is officially online",
+                "enContent": "Whalerun is officially online, Google search: whalerun is available for download!!"
+            },{
+                "zhTitle": "没错！只是一段牢骚！！",
+                "zhContent": "今晚真特别！真的很特别！特别的卡！而且服务器也挂掉好多台，本来以为可以离“好用”更近一步！没想到今天又给打回原形，现在要离“能用”的程度还需要努力！你们不放弃，我就继续维护！加油！呸！如果打气有用，打感情牌的套路有用！我又何必那么辛苦去维护！呵！夜深人静！对着电脑！看着断流的视频！其实也别有一番风味！苦中作乐！这就是我唯一坚持下去的乐趣！为了蓝鲸和逗鲨这两个不争气的孩子！以为说新年大一岁了，长大了，真想对他们说，孩子你们已经长大了！该学会自己去维护自己的服务器了！你怎么服务器说挂就挂！ok这一切都是幻想！幻想！晚上睡一觉就会好起来的！做自己喜欢做的！尽人事，听天命！早点睡！晚安！！！",
+                "enTitle": "Everything will be fine",
+                "enContent": "everything will be fine!"
+            },{
+                "zhTitle": "致歉！！",
+                "zhContent": "关于昨天的一些言论，胖鲸深表歉意！可能是我自己心眼太小了，可是你们有谁知道逗鲨是我花了一个月多，基本每天下班都是吃完晚饭熬到凌晨2点多的产物，可能也就在电报群里的朋友知道，他们帮我见证逗鲨从一个初级想法到现在已经5000多用户的应用，而且现在逗鲨采用全新的协议，基本可以避过检测。我真不知道自己做错什么，还有VPN本身就是每个月都要维护，每个月都要给服务器商费用，我的目的也只是为了给愿意支持逗鲨的朋友，给他们提供更好的服务器。哎！多事之秋！大过年的还遇到这肺炎，希望大家都平平安安过个好年，我这段时间也一定会保证服务器都能使用，大家都出一份力。希望雨过天晴！",
+                "enTitle": "A new VPN!",
+                "enContent": "New VPN teaser beta!"
             }
         ]
     }
