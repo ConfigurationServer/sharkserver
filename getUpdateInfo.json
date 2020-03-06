@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 115,
-		"version": "1.1.5",
-		"zhDesc": "1、修复github服务器列表封锁问题，低版本现在用不用了了，要等github恢复正常才能使用。最新版本现在使用双重机制。可以避过这个问题。这段时间抱歉了各位。最新版本才能获取服务器列表。",
-		"enDesc": "Fixed the list blocking problem of github server, the low version is not available now, and can only be used when github is back to normal. The latest version now USES a dual mechanism. You can get around that. Sorry for the time. Latest version to get server list. ",
+		"versionCode": 18,
+		"version": "0.1.8",
+		"zhDesc": "更新0.18版本提示！官网：www.whalerun.net有非谷歌更新链接！未来几天将开启更新，望见谅！",
+		"enDesc": "1. The official launch!add：whalerun.net ",
 		"type": 1,
 		"source":""
 	}
